@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Simplicity</string>
+    <string name="hint_slut">Jag ska resa till...</string>
+    <string name="hint_start">Jag ska resa från...</string>
+    <string name="text_berakna">Beräkna växthusgasutsläpp</string>
+    <string name="valkommen">Where are you going?</string>
+    <string name="utslapp">Utsläpp </string>
+    <string name="tag">Tåg </string>
+    <string name="bil">Bil </string>
+    <string name="buss">Buss </string>
+    <string name="flyg">Flyg </string>
+    <string name="blabla">\@string/utslapp</string>
+    <string name="welcomeSthlm">Welcome to Stockholm</string>
+    <string name="welcomeGbg">Hej! Welcome to Göteborg!</string>
+    <string name="here">Here, you travel with</string>
+    <string name="buybefore">Buy your ticket before getting on your ride</string>
+    <string name="singletripsVT"><a href="https://play.google.com/store/apps/details?id=com.vaesttrafik.vaesttrafik">
+        For 1-3 trips,\n single tickets will be cheapest for you,\n click here to download the app to buy tickets.</a></string>
+    <string name="singletripsM"><a href="https://play.google.com/store/apps/details?id=se.skanetrafiken.stadsbiljetten">
+        For 1-2 trips,\n single tickets will be cheapest for you,\n click here to download the app to buy tickets.</a></string>
+    <string name="singletripsSL"><a style="text-decoration:none" href="https://play.google.com/store/apps/details?id=com.sl.SLBiljetter&amp;hl=sv">
+        For 1-2 trips, single tickets will be cheapest for you,\n click here to download the app to buy tickets.</a></string>
+    <string name="plantrip">Plan your trip</string>
+    <string name="fourtrips">For 4 trips or more in a day</string>
+    <string name="threetrips">For 3 trips or more in a day</string>
+    <string name="twotrips">For 2 trips or more in a day</string>
+    <string name="buydaycard">Buy a 24h card</string>
+    <string name="sixtrips">More than 6 trips in 3 days</string>
+    <string name="buythreedayscard">Buy a 72h card</string>
+    <string name="stores">You can buy your card in one of these stores:</string>
+    <string name="salespoint"><a href="http://www.vasttrafik.se/#!/biljetter-priser/har-koper-du-biljetter/forsaljningsstallen/">See all sales points</a></string>
+    <string name="downloadVT"><a href="https://play.google.com/store/apps/details?id=com.vaesttrafik.vaesttrafik">Download app to buy single tickets</a></string>
+    <string name="downloadST"><a href="https://play.google.com/store/apps/details?id=se.skanetrafiken.stadsbiljetten">Download app to buy single tickets</a></string>
+    <string name="downloadSL"><a href="https://play.google.com/store/apps/details?id=com.sl.SLBiljetter&amp;hl=sv">Download app to buy single tickets</a></string>
+    <string name="welcomeMalmo">Welcome to Malmö</string>
+    <string name="SLhemsida"><a href="https://www.sl.se/">Plan your trip</a></string>
+    <string name="SThemsida"><a href="https://www.skanetrafiken.se/">Plan your trip</a></string>
+    <string name="VThemsida"><a href="http://www.vasttrafik.se/">Plan your trip</a></string>
+</resources>

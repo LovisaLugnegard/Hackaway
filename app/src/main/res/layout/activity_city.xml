@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/activity_city"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.isisochbast.hackaway.City">
+
+
+    <TextView
+        android:id="@+id/welcomTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="5dp"
+        android:textColor="@color/svart"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/here"
+        android:gravity="center"
+        android:textColor="@color/svart"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="209dp"
+        android:layout_height="91dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="235dp"
+        android:layout_height="wrap_content"
+        android:text="@string/buybefore"
+        android:gravity="center"
+        android:textColor="@color/svart"
+        android:layout_margin="20dp"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:id="@+id/singleTextView"
+        android:layout_width="264dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/svart"
+        android:background="@color/vit"
+        android:layout_gravity="center_horizontal"
+        android:textAllCaps="false"
+        android:textColorLink="@color/svart"/>
+
+
+    <Button
+        android:id="@+id/multipleTripsTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/svart"
+        android:background="@color/vit"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:textAllCaps="false"
+        android:textColorLink="@color/svart"
+        />
+
+
+
+    <TextView
+        android:id="@+id/toWebsite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/svart"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:textColorLink="@color/svart"/>
+
+</LinearLayout>
